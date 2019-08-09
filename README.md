@@ -1,4 +1,4 @@
-This README file contains the steps required to run the Matlab function CountCells.m
+# matlab image processing 
 
 In the zipped folder given, There is:
  - A Matlab function (CountCells.m) 
@@ -6,6 +6,7 @@ In the zipped folder given, There is:
  - 1 README.txt file 
  - A report explaining the process and functions used in order to obtain the result
 
+## Steps to run program: 
 1) Once the zipped folder has been downloaded, extract the contents of the folder to the desktop
 
 2) Open the Matlab program
@@ -29,5 +30,4 @@ In the zipped folder given, There is:
  - Final processed image with total number of nuclei
  - Your image perimeter pixels overlay with the original input image 
 
-Thank you! 
  
