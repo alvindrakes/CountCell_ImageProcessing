@@ -1,4 +1,4 @@
-# matlab image processing 
+# matlab image processing for cell counting 
 
 In the zipped folder given, There is:
  - A Matlab function (CountCells.m) 
